@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Imac 27 Inch 5k",
+    "image": "https://i.imgur.com/kQSxra9.png",
+    "seller": "Applestore",
+    "star": 4.5,
+    "price": 1322.99,
+    "sale_price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13 Pro Max 512G",
+    "image": "https://i.imgur.com/CDljAig.png",
+    "seller": "Applestore",
+    "star": 4.0,
+    "price": 2322.99,
+    "sale_price": 1999.99
+  },
+  {
+    "id": 3,
+    "name": "Long dress Redgloss",
+    "image": "https://i.imgur.com/XW7IdnO.png",
+    "seller": "Uniqlo Store",
+    "star": 4.1,
+    "price": 22.99,
+    "sale_price": 19.99
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro 13 Inch",
+    "image": "https://i.imgur.com/r3lOF7h.png",
+    "seller": "Applestore",
+    "star": 4.9,
+    "price": 1022.99,
+    "sale_price": 899.99
+  },
+  {
+    "id": 5,
+    "name": "Smart Watch T80",
+    "image": "https://i.imgur.com/B7ah6TY.png",
+    "seller": "Applestore",
+    "star": 4.5,
+    "price": 268.99,
+    "sale_price": 250.99
+  },
+  {
+    "id": 6,
+    "name": "Samsung z flip",
+    "image": "https://i.imgur.com/gHQOAPe.png",
+    "seller": "Samsung",
+    "star": 4.5,
+    "price": 999.99,
+    "sale_price": 700.99
+  },
+  {
+    "id": 7,
+    "name": "Eyeglasses Gucci",
+    "image": "https://i.imgur.com/txnPWll.png",
+    "seller": "Gucci",
+    "star": 4.5,
+    "price": 322.99,
+    "sale_price": 99.99
+  }
+]

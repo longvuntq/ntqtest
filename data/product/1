@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "Imac 27 Inch 5k",
+    "image": "https://i.imgur.com/kQSxra9.png",
+    "seller": "Applestore",
+    "star": 4.5,
+    "price": 1322.99,
+    "sale_price": 999.99,
+    "description": "Spesification\n~ Processor Core i3\n~ IMAC (Mid 2010)\n~ Memory 4GB 1333 MHz DDR3 (bisa upgrade)\n~ Built In Display 21,5 Inch (1920 X 1080 )"
+}

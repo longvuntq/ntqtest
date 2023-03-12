@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "rate": 4,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  },
+  {
+    "id": 2,
+    "rate": 5,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a"
+  },
+  {
+    "id": 3,
+    "rate": 4,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  },
+  {
+    "id": 4,
+    "rate": 3,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  },
+  {
+    "id": 5,
+    "rate": 5,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  },
+  {
+    "id": 6,
+    "rate": 1,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  },
+  {
+    "id": 7,
+    "rate": 2,
+    "user_name": "Arnold Cuan",
+    "time": "20220311112044",
+    "content": "wow this is the product i like the most. and a trusted and friendly shop"
+  }
+]
